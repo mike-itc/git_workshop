@@ -5,3 +5,6 @@ def summarize(x, y, z):
 	print "z: " + str(z)
 	
 	print "x + y + z: " + str(x + y + z)
+
+def hello(name):
+	print "Hello, " + name + "!"
